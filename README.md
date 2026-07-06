@@ -23,14 +23,14 @@
 ```
 
 ## 🚀 在线体验（部署完成后替换为你的Github Pages链接）
-👉 **在线直达链接**：https://Aventardo7777.github.io/仓库名/
+👉 **在线直达链接**：[https://Aventardo7777.github.io/Tetris-game/]
 > 复制链接在任意浏览器打开，无需下载代码，直接运行体验完整项目效果
 
 ## 📌 本地运行方式（可选，仅修改源码时使用）
 若你需要本地修改调试代码，操作步骤：
 1. 克隆仓库到本地
 ```bash
-git clone https://github.com/你的用户名/仓库名.git
+git clone https://github.com/Aventardo7777/Tetris-game.git
 ```
 2. 进入项目文件夹，直接双击 `index.html` 文件即可用浏览器打开本地版本
 
@@ -54,7 +54,7 @@ git clone https://github.com/你的用户名/仓库名.git
 
 ## 📄 开源协议
 MIT License
-> 可供个人学习使用，需标明出处
+> 可供个人学习使用，但需标明出处。
 
 ---
 
